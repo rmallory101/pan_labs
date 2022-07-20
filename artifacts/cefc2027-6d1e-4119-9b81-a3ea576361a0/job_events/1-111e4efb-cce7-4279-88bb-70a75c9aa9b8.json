@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "111e4efb-cce7-4279-88bb-70a75c9aa9b8", "counter": 1, "stdout": "Error: initializing source docker://podman-machine-default:latest: reading manifest latest in docker.io/library/podman-machine-default: errors:", "start_line": 0, "end_line": 1, "runner_ident": "cefc2027-6d1e-4119-9b81-a3ea576361a0", "created": "2022-07-19T13:25:24.745600"}

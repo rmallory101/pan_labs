@@ -1,0 +1,1 @@
+Error: error preparing container 8c78f37c3ff984e6cf33bcea193185a6ed9de483097da91096698c6ee4a0f1f9 for attach: lsetxattr /Users/richmallory/Dropbox/Automation/Ansible/Palo Alto/PaloAlto/ansible-pan-labs/.git: operation not supported

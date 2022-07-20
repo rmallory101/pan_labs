@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "e0d00417-4f1b-41b4-9f17-dcca605aa021", "counter": 1, "stdout": "Unable to find image 'jrich/eenvironment:latest' locally", "start_line": 0, "end_line": 1, "runner_ident": "f8c70671-0785-4cd5-96d2-b2c7df0a681b", "created": "2022-07-18T21:29:27.200964"}

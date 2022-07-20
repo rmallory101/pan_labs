@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "d103bdda-1d8a-4248-99c5-5f5b579b67cd", "counter": 1, "stdout": "\u001b[0;31mERROR! the playbook: 1.1_palo_facts.yml could not be found\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "075e2933-8a26-48f7-a14a-c554a8c452f4", "created": "2022-07-18T21:29:44.290880"}
